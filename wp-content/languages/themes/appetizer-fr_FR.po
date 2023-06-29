@@ -1,0 +1,496 @@
+# Translation of Themes - Appetizer in French (France)
+# This file is distributed under the same license as the Themes - Appetizer package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-07 08:51:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Appetizer\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Appetizer is a Creative, Modern, and Professional Restaurant WordPress Theme. The theme is perfect for Restaurants, Fast Food, Seafood restaurants, Recipes, bakeries, burgers, Coffee Shops, Pizza Shops Websites, who need an easy, attractive and effective way to promote your food related services. Checkout Pro Version https://burgerthemes.com/demo/pro/appetizer/"
+msgstr "Appetizer est un thème WordPress de restaurant créatif, moderne et professionnel. Le thème est parfait pour les sites de restaurants, de restauration rapide, de fruits de mer, de recettes, de boulangeries, de burgers, de cafés, de pizzerias, qui ont besoin d’un moyen facile, attrayant et efficace pour promouvoir vos services liés à la nourriture. Découvrez la version Pro https://burgerthemes.com/demo/pro/appetizer/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Appetizer"
+msgstr "Apéritif"
+
+#: inc/extras.php:532
+msgid "Get started with Appetizer"
+msgstr "Premiers pas avec Appetizer"
+
+#: inc/extras.php:530
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Installez et activez l’extension <strong>Burger Companion</strong> pour tirer pleinement avantage de toutes les fonctionnalités que ce thème a à offrir."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/extras.php:526
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "Bienvenue ! Merci d’avoir choisi %1$s !"
+
+#: inc/extras.php:519
+msgid "Theme Screenshot"
+msgstr "Captures d’écran du thème"
+
+#: inc/customizer/customizer-pro/class-customize.php:76
+msgid "Get More Features in Appetizer Pro"
+msgstr "Obtenez plus de fonctionnalités avec Appetizer Pro"
+
+#: woocommerce/content-product.php:31
+msgid "Sale"
+msgstr "Promo"
+
+#: woocommerce/cart/mini-cart.php:103 woocommerce/cart/mini-cart.php:216
+msgid "No products in the cart."
+msgstr "Aucun article dans le panier."
+
+#: woocommerce/cart/mini-cart.php:97 woocommerce/cart/mini-cart.php:210
+msgid "Checkout"
+msgstr "Commande"
+
+#: woocommerce/cart/mini-cart.php:57 woocommerce/cart/mini-cart.php:170
+msgid "Remove this item"
+msgstr "Retirer cet élément"
+
+#: woocommerce/cart/mini-cart.php:32 woocommerce/cart/mini-cart.php:145
+msgid "Total:"
+msgstr "Total :"
+
+#. Template Name of the theme
+msgid "Page Full Width"
+msgstr "Page en pleine largeur"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Page d’accueil"
+
+#: template-parts/content/content.php:38
+msgid "Pages:"
+msgstr "Pages :"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:33
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. Essayez en lançant une recherche."
+
+#: template-parts/content/content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d’autres mots-clés."
+
+#: template-parts/content/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt·e à publier votre premier article ? <a href=\"%1$s\">Lancez-vous ici</a>."
+
+#: single.php:55 template-parts/content/content-page-2.php:46
+#: template-parts/content/content-page.php:51
+#: template-parts/content/content-search.php:49
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: searchform.php:13
+msgid "Search …"
+msgstr "Rechercher…"
+
+#: searchform.php:12
+msgid "Search for:"
+msgstr "Recherche pour :"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Laisser un commentaire <span class=\"screen-reader-text\"> sur %s</span>"
+
+#: inc/template-tags.php:56
+msgid "Tagged %1$s"
+msgstr "Étiqueté %1$s"
+
+#: inc/template-tags.php:50
+msgid "Posted in %1$s"
+msgstr "Publié dans  %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48 inc/template-tags.php:54
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "par %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publié le %s"
+
+#: inc/extras.php:482
+msgid "Page"
+msgstr "Page"
+
+#: inc/extras.php:477
+msgid "Error 404 "
+msgstr "Erreur 404"
+
+#: inc/extras.php:473
+msgid "Articles posted by "
+msgstr "Articles publiés par"
+
+#: inc/extras.php:467
+msgid "Posts tagged "
+msgstr "Articles étiquetés"
+
+#: inc/extras.php:364
+msgid "Search results for "
+msgstr "Résultats de recherche pour"
+
+#: inc/extras.php:358
+msgid "Archive by category"
+msgstr "Archive par catégorie"
+
+#: inc/extras.php:338
+msgid "Home"
+msgstr "Accueil"
+
+#: inc/extras.php:336 inc/extras.php:339
+msgid "1"
+msgstr "1"
+
+#: inc/extras.php:304
+msgid "Author: %s"
+msgstr "Auteur/autrice : %s"
+
+#: inc/extras.php:300
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#: inc/extras.php:296
+msgid "Tag Archives: %s"
+msgstr "Archives du mot-clé %s"
+
+#: inc/extras.php:292
+msgid "Category Archives: %s"
+msgstr "Archives pour la catégorie %s"
+
+#: inc/extras.php:288
+msgid "Yearly Archives: %s"
+msgstr "Archives annuelles : %s"
+
+#: inc/extras.php:284
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles : %s"
+
+#: inc/extras.php:280
+msgid "Daily Archives: %s"
+msgstr "Archives quotidiennes : %s"
+
+#: inc/extras.php:213
+msgid "Header Above Collapse"
+msgstr "En-tête au dessus du repliage"
+
+#: inc/extras.php:209
+msgid "Header Close Menu"
+msgstr "En-tête de fermeture de menu"
+
+#: inc/extras.php:200
+msgid "Menu Collaped"
+msgstr "Menu replié"
+
+#: inc/extras.php:165 inc/extras.php:242 woocommerce/cart/mini-cart.php:25
+#: woocommerce/cart/mini-cart.php:138
+msgid "0"
+msgstr "0"
+
+#: inc/extras.php:133
+msgid "Search Popup Close"
+msgstr "Fermeture de popup de recherche"
+
+#: inc/extras.php:130
+msgid "Type To Search"
+msgstr "Saisissez votre recherche"
+
+#: inc/extras.php:129
+msgid "Site Search"
+msgstr "Recherche du site"
+
+#: inc/extras.php:123
+msgid "image-gif"
+msgstr "image-gif"
+
+#: inc/extras.php:122
+msgid "Search Popup"
+msgstr "Popup de recherche"
+
+#: inc/customizer/customizer-options/appetizer_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: inc/customizer/customizer-options/appetizer_recommended_plugin.php:17
+msgid "Activate"
+msgstr "Activer"
+
+#: inc/customizer/customizer-options/appetizer_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "Installer et activer"
+
+#: inc/customizer/customizer-options/appetizer_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "Extension recommandée"
+
+#: inc/customizer/customizer-options/appetizer_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "Actions recommandées"
+
+#: inc/customizer/customizer-options/appetizer_recommended_plugin.php:10
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer Appetizer."
+msgstr "Installez et activez l’extension <strong>Burger Companion</strong> pour tirer pleinement avantage de toutes les fonctionnalités que le thème Appetizer a à offrir."
+
+#: inc/customizer/customizer-options/appetizer-header.php:207
+#: inc/customizer/customizer-options/appetizer-header.php:226
+msgid "Sticky Header"
+msgstr "En-tête fixe"
+
+#: inc/customizer/customizer-options/appetizer-header.php:194
+msgid "Open in New Tab ?"
+msgstr "Ouvrir dans un nouvel onglet ?"
+
+#: inc/customizer/customizer-options/appetizer-header.php:176
+msgid "Link"
+msgstr "Lien"
+
+#: inc/customizer/customizer-options/appetizer-header.php:157
+msgid "Label"
+msgstr "Libellé"
+
+#: inc/customizer/customizer-options/appetizer-header.php:120
+msgid "Button"
+msgstr "Bouton"
+
+#: inc/customizer/customizer-options/appetizer-header.php:80 searchform.php:15
+msgid "Search"
+msgstr "Rechercher"
+
+#: inc/customizer/customizer-options/appetizer-header.php:41
+msgid "Cart"
+msgstr "Panier"
+
+#: inc/customizer/customizer-options/appetizer-header.php:23
+msgid "Header Navigation"
+msgstr "Navigation d’en-tête"
+
+#: inc/customizer/customizer-options/appetizer-general.php:54
+msgid "Hide / Show Section"
+msgstr "Masquer/Afficher la section"
+
+#: inc/customizer/customizer-options/appetizer-blog.php:35
+#: inc/customizer/customizer-options/appetizer-general.php:35
+msgid "Settings"
+msgstr "Réglages"
+
+#: inc/customizer/customizer-options/appetizer-general.php:16
+msgid "Breadcrumb Section"
+msgstr "Section de fil d’Ariane"
+
+#: inc/customizer/customizer-options/appetizer-general.php:7
+msgid "General"
+msgstr "Général"
+
+#: inc/customizer/customizer-options/appetizer-footer.php:230
+msgid "Text"
+msgstr "Texte"
+
+#: inc/customizer/customizer-options/appetizer-footer.php:190
+msgid "Icon"
+msgstr "Icône"
+
+#: inc/customizer/customizer-options/appetizer-blog.php:53
+#: inc/customizer/customizer-options/appetizer-footer.php:170
+#: inc/customizer/customizer-options/appetizer-header.php:60
+#: inc/customizer/customizer-options/appetizer-header.php:99
+#: inc/customizer/customizer-options/appetizer-header.php:137
+#: inc/customizer/customizer-options/appetizer-header.php:243
+msgid "Hide/Show"
+msgstr "Masquer/Afficher"
+
+#: inc/customizer/customizer-options/appetizer-footer.php:152
+msgid "Support"
+msgstr "Support"
+
+#: inc/customizer/customizer-options/appetizer-footer.php:117
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Propulsé par [theme_author]"
+
+#: inc/customizer/customizer-options/appetizer-footer.php:110
+#: inc/customizer/customizer-options/appetizer-footer.php:130
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/customizer-options/appetizer-footer.php:91
+msgid "Footer Bottom"
+msgstr "Bas de pied de page"
+
+#: inc/customizer/customizer-options/appetizer-footer.php:82
+#: inc/customizer/customizer-options/appetizer-general.php:120
+msgid "Fixed"
+msgstr "Fixe"
+
+#: inc/customizer/customizer-options/appetizer-footer.php:81
+#: inc/customizer/customizer-options/appetizer-general.php:119
+msgid "Scroll"
+msgstr "Défilement"
+
+#: inc/customizer/customizer-options/appetizer-footer.php:80
+#: inc/customizer/customizer-options/appetizer-general.php:118
+msgid "Inherit"
+msgstr "Hérité"
+
+#: inc/customizer/customizer-options/appetizer-footer.php:75
+#: inc/customizer/customizer-options/appetizer-general.php:112
+msgid "Background Attachment"
+msgstr "Image d’arrière-plan"
+
+#: inc/customizer/customizer-options/appetizer-footer.php:56
+#: inc/customizer/customizer-options/appetizer-general.php:93
+msgid "Background Image"
+msgstr "Image d’arrière-plan"
+
+#: inc/customizer/customizer-options/appetizer-footer.php:38
+#: inc/customizer/customizer-options/appetizer-general.php:75
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: inc/customizer/customizer-options/appetizer-footer.php:18
+msgid "Footer Background"
+msgstr "Arrière-plan du pied de page"
+
+#: inc/customizer/customizer-options/appetizer-footer.php:10
+msgid "Footer"
+msgstr "Pied de page"
+
+#: inc/customizer/customizer-options/appetizer-blog.php:112
+msgid "Description"
+msgstr "Description"
+
+#: inc/customizer/customizer-options/appetizer-blog.php:92
+#: inc/customizer/customizer-options/appetizer-footer.php:211
+msgid "Title"
+msgstr "Titre"
+
+#: inc/customizer/customizer-options/appetizer-blog.php:73
+#: inc/customizer/customizer-options/appetizer-header.php:12
+msgid "Header"
+msgstr "En-tête"
+
+#: inc/customizer/customizer-options/appetizer-blog.php:15
+msgid "Blog Section"
+msgstr "Section de blog"
+
+#: inc/customizer/customizer-options/appetizer-blog.php:7
+msgid "Frontpage Sections"
+msgstr "Sections de page d’accueil"
+
+#: inc/customizer/customizer-notify/appetizer-notify.php:111
+msgid "Activating"
+msgstr "Activation"
+
+#: inc/class-wp-bootstrap-navwalker.php:366
+msgid "Add a menu"
+msgstr "Ajouter un menu"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: functions.php:127
+msgid "This Widget area for WooCommerce Widget"
+msgstr "Cette zone de widget est pour le widget WooCommerce"
+
+#: functions.php:125
+msgid "WooCommerce Widget Area"
+msgstr "Zone de widget WooCommerce"
+
+#: functions.php:117
+msgid "The Footer Widget Area"
+msgstr "La zone de widgets du pied de page"
+
+#: functions.php:115
+msgid "Footer Widget Area"
+msgstr "Zone de widgets en pied de page"
+
+#: functions.php:107
+msgid "The Primary Widget Area"
+msgstr "La zone principale de widget"
+
+#: functions.php:105
+msgid "Sidebar Widget Area"
+msgstr "Zone de widget de colonne latérale"
+
+#: functions.php:42
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:31
+msgid "<a href=\"#\">Appetizer</a>"
+msgstr "<a href=\"#\">Appetizer</a>"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:45 comments.php:65
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: comments.php:44 comments.php:64
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: 404.php:21
+msgid "Go Home Page"
+msgstr "Aller à la page d’accueil"
+
+#: 404.php:18
+msgid "4"
+msgstr "4"
+
+#: 404.php:17
+msgid "Page Not Found"
+msgstr "Page non trouvée"
+
+#: 404.php:16
+msgid "OOPs..."
+msgstr "Oups..."
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://burgerthemes.com/appetizer-free/"
+msgstr "https://burgerthemes.com/appetizer-free/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://burgerthemes.com/"
+msgstr "https://burgerthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "burgersoftware"
+msgstr "burgersoftware"
